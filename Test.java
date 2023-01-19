@@ -5,6 +5,6 @@ public class Test {
         Scanner scanner = new Scanner(System.in);
 
         String name= scanner.nextLine();
-        System.out.println(name);
+        System.out.printf("%s",name);
     }
 }
